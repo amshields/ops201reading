@@ -1,0 +1,5 @@
+Reading 01
+
+This article showcases a very important fact: Not all cutting-edge zero-day exploits are from finding vulnerabilities in recent code updates. There could be many other pieces of vulnerable code in software that might be decades old. And the fact is, that those attack vectors may be in use right at this very moment. This could be code, such as the openSSL or Bash code, written when computer attacks over a network were unthinkable. It even took Microsoft until 2003, when Windows XP and Windows 2000 were attacked by Blaster, to take computer security seriously.
+
+One advantage to open source software, is the ability for anyone to audit code for both security and bugs. But this practice may only be theoretical, in cases for some older pieces of untouched software. This may be the case in both the openSSL and Bash exploits. When looking in Linux source code, you may see files that have not been edited in over a decade, leading one to wonder if the next Heartbleed is on the horizon.
